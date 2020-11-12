@@ -1,0 +1,49 @@
+1. Repeated code:
+
+if card_rank == 1:
+    card_name = 'Ace'
+elif card_rank == 11:
+    card_name = 'Jack'
+elif card_rank == 12:
+    card_name = 'Queen'
+elif card_rank == 13:
+    card_name = 'King'
+else:
+    card_name = card_rank
+
+print('Drew a ' + str(card_name))
+
+Function name:
+naming_cards
+
+
+2. Repeated code:
+
+if card_rank == 1:
+    user_hand_value_1 = 11
+elif card_rank == 11 or card_rank == 12 or card_rank == 13:
+    user_hand_value_1 = 10
+else:
+    user_hand_value_1 = card_rank
+    
+Function name:
+assigning_user_hand_value
+
+
+3. Repeated code:
+
+if card_rank == 1:
+    dealer_hand_value_1 = 11
+elif card_rank == 11 or card_rank == 12 or card_rank == 13:
+    dealer_hand_value_1 = 10
+else:
+    dealer_hand_value_1 = card_rank
+
+Function name:
+assigning_dealer_hand_value
+
+
+
+
+
+
