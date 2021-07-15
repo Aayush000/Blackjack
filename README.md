@@ -43,8 +43,3 @@ In determining hand totals, face cards (Jacks, Queens, and Kings) are worth 10. 
 
 ### Other Files
 `deck_test_helper.py`: helper functions for unit and integration tests
-
-### Ownership
-For Parts 1-4, I wrote the files identified above and all other files were provided. For Part 5, I wrote the function definitions in `deck.py` and function definitions between `WRITE YOUR TESTS BELOW` and `WRITE YOUR TESTS ABOVE` in `deck_tests.py`. For Part 6, I wrote `blackjack_final.py` and function definitions between `WRITE ALL YOUR TESTS BELOW` and `Write all you tests above this`.
-
-All other functions, files, and this README written by [Andrea Wu](https://github.com/andreaowu) for Fisk University during Google in Residence, Fall 2020.
